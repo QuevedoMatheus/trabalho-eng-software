@@ -27,8 +27,8 @@ Interface de Usuário: O sistema opera via linha de comando, sem interface gráf
 
 Padrões de Projeto: Utiliza o padrão Singleton para a classe de interação com o usuário e o padrão Command para a comunicação entre classes.
 
-**COMO EXECUTAR
-**
+**COMO EXECUTAR**
+
 Clone o repositório:
 git clone https://github.com/matheusquevedodev/trabalho-eng-software.git
 
