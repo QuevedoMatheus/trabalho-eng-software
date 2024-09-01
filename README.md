@@ -55,6 +55,9 @@ A classe Livro implementa a interface Subject, que possui o método registrarObs
 **Strategy:**
 O padrão Strategy é um padrão de design comportamental que permite definir uma família de algoritmos, encapsulá-los em classes separadas, e torná-los intercambiáveis. Isso permite que o comportamento de um objeto seja alterado em tempo de execução sem modificar seu código.
 
+**Facade:**
+A fachada (Livro) abstrai a complexidade dos detalhes internos das operações de gestão de livros, fornecendo uma interface mais simples para os clientes e A classe Biblioteca fornece uma interface simplificada para gerenciar operações.
+
 
 **Diagrama UML**
 
